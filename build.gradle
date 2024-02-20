@@ -30,5 +30,4 @@ dependencyManagement {
 
 tasks.named('test') {
     useJUnitPlatform()
-}Stoppen
-351. Introduction to the Spring Boot Gradle Plugin
+}
